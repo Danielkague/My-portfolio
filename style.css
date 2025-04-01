@@ -147,7 +147,7 @@ img{
     width: 88%;
     margin-inline: auto;
     padding: 1rem 2rem;
-    border-radius: 4rem;
+    border-radius: 1rem;
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     z-index: var(--z-fixed);
@@ -219,7 +219,7 @@ img{
     color: var(--light-color);
     font-weight: var(--semi-bold-font);
     padding: 1.25rem 2.5rem;
-    border-radius: 2rem;
+    border-radius: 1rem;
     transition: background-color .4s;
 }
 
@@ -493,7 +493,7 @@ img{
 .contact-input{
     background-color: var(--card-bg-color);
     padding: 1.25rem;
-    border-radius: 1.5rem;
+    border-radius: 1.0rem;
     color: var(--light-color);
     border: 1px solid rgba(188, 140, 237, 0.5);
     box-shadow: 0 0 5px rgba(125, 25, 225, 0.5), 0 0 10px rgba(255, 255, 255, 0.5);
