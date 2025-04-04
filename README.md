@@ -2,7 +2,7 @@
 
 ## Overview
 
-A modern, responsive portfolio website showcasing Daniel Kague's work as a web designer and software developer. The site features a sleek purple-themed design with interactive elements and a comprehensive display of professional information.
+A modern, responsive portfolio website showcasing my work as a web designer and software developer. The site features a sleek purple-themed design with interactive elements and a comprehensive display of professional information.
 
 ## Key Features
 
@@ -52,7 +52,7 @@ The site is easily customizable through:
 
 1. Clone repository
 2. Open `index.html` in browser
-3. Deploy to hosting platform of choice GitHub Pages and Netlify.
+3. Deploy to hosting platform of choice which was GitHub Pages and Netlify.
 
 ---
 
